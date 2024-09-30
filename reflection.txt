@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>ICT Portfolio</title>
+</head>
+<body>
+
+<h1 style="font-family:Comic Sans MS;" align="center"> time to refill on gas at: reflection gas station! </h1>
+
+<table align="center" border="2" height="150"width="400">
+<tr align="center"><td align="center" width="300">
+
+<p style="font-family:Arial;" align="center"> this first quarter of grade 9 ict, i learned many new things about html that weren't discussed in grade 8. these new functions, albeit complicated, give me more ideas and abilities when i make webpages. the lessons tackled help me make my webpage have more creative features, and i hope to learn more about coding in the following quarter. i especially want to learn more about designing and the layout of webpages, which i am aware will be tackled in css. </p>
+
+</td></tr>
+</table>
+
+<br>
+
+<h1 style="font-family:Arial;" align="center"><a href="index.html"> drive home! </a></h1>
+
+</body>
+</html>
