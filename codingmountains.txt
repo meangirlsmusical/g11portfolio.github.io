@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>ICT Portfolio</title>
+</head>
+<body>
+
+<h1 style="font-family:Comic Sans MS;" align="center"> you've arrived at: coding mountains! </h1>
+
+<table align="center" border="2" height="150"width="400">
+<tr align="center"><td align="center" width="300">
+
+<p style="font-family:Arial;" align="center"> 
+welcome to coding mountain. it is unsafe here. </p>
+
+</td></tr>
+</table>
+
+<center>
+<img src="coding.jpg" align="center">
+</center>
+
+<h1 style="font-family:Arial;" align="center"><a href="index.html"> drive home! </a></h1>
+
+</body>
+</html>

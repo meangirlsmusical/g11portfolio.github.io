@@ -1,0 +1,34 @@
+
+<html>
+<head>
+<title>ICT Portfolio</title>
+</head>
+<body>
+<center>
+<img src="license.jpg" align="center" width="690" height="400">
+</center>
+
+<h1 style="font-family:Comic Sans MS;" align="center"> sophia fabricante: professional tourist guide </h1>
+
+<table align="center" border="2" height="150" width="400">
+<tr align="center"><td align="center" width="300">
+<p style="font-family:Arial;" align="center"> i'm sophie fabricante. i'm 14 years old and definitely legally allowed to drive, as you can see from my driver's license shown above. i was born on november 12, 2009 and i have been professionally been a tour guide ever since i came out the womb. </p>
+</td></tr>
+
+</table>
+
+<br>
+
+<center>
+<img src="interests.jpg" align="center" width="670" height="400">
+<center>
+
+<table align="center" border="2" height="150" width="400">
+<tr align="center"><td align="center" width="300">
+<p style="font-family:Arial;" align="center"> these are my main interests. my favorite movie is mean girls. my favorite musical is mean girls: the musical. my favorite movie remake is mean girls (2024). bo burnham is my favorite comedian and music artist. he hasn't released new material since 2021, but it's okay. i also like rhythm games. besides being a professional tourist guide, i also enjoy drawing and baking. </p>
+</td></tr>
+
+</table>
+
+</body>
+</html>

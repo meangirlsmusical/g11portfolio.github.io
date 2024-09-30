@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>ICT Portfolio</title>
+</head>
+<body>
+
+<h1 style="font-family:Comic Sans MS;" align="center"> you've arrived at: image land! </h1>
+
+<table align="center" border="2" height="150"width="400">
+<tr align="center"><td align="center" width="300">
+
+<p style="font-family:Arial;" align="center"> 
+this is image land, the land of images. videos are prohibited in this area. back in 1992, image land wasn't as polluted as it is now, but it's okay since they haven't received lawsuits yet for the lack of cleanliness and safety! </p>
+
+</td></tr>
+</table>
+
+<center>
+<img src="activity3.jpg" align="center" width="680" height="400">
+</center>
+
+<center>
+<img src="activity1.jpg" align="center" width="680" height="400">
+</center>
+
+<center>
+<img src="activity2.jpg" align="center" width="680" height="400">
+</center>
+
+
+<br>
+
+<h1 style="font-family:Arial;" align="center"><a href="index.html"> drive home! </a></h1>
+
+</body>
+</html>
